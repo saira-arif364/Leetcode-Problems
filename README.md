@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
