@@ -1,8 +1,9 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-       
-        s_sum = sum(ord(x) for x in s)
-        t_sum = sum(ord(y) for y in t)
-    
-        return chr(t_sum - s_sum)
+        count_s,count_t = Counter(s),Counter(t)
+        for c in count_t:
+            if c not in count_s:
+                return c
+            if count_s[c]<count_t[c]:
+                return c
         
