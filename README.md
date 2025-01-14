@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/saira-arif364/Leetcode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/saira-arif364/Leetcode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saira-arif364/Leetcode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
