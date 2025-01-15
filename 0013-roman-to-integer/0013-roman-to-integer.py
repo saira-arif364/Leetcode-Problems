@@ -1,7 +1,7 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        res = 0
-        roman = {
+        # Map Roman numerals to their integer values
+        roman_to_int = {
             'I': 1,
             'V': 5,
             'X': 10,
@@ -10,12 +10,22 @@ class Solution:
             'D': 500,
             'M': 1000
         }
-
-        for a, b in zip(s, s[1:]):
-            if roman[a] < roman[b]:
-                res -= roman[a]
-            else:
-                res += roman[a]
-
-        return res + roman[s[-1]] 
         
+        total = 0
+        prev_value = 0  # To keep track of the previous numeral's value
+
+        # Traverse the string in reverse order
+        for char in reversed(s):
+            current_value = roman_to_int[char]
+            
+            if current_value < prev_value:
+                # If current value is smaller, subtract it
+                total -= current_value
+            else:
+                # Otherwise, add it
+                total += current_value
+            
+            # Update the previous value
+            prev_value = current_value
+        
+        return total
