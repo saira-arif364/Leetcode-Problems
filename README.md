@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0932-monotonic-array](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0932-monotonic-array) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/saira-arif364/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
